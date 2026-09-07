@@ -1,0 +1,93 @@
+[INFO ] 2023-04-11 06:57:34.193 [main] ExcelToCSVConverter - Generated CSV file is added to : C:\Users\padmini\Documents\Tx_Pratice-Nykaa_S/src/test/resources/CsvFiles/ArtistGrowthUsers.csv
+[INFO ] 2023-04-11 06:57:34.301 [main] RunCukesTest - CHROME
+[INFO ] 2023-04-11 06:57:34.317 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-11 06:57:34.317 [main] RunCukesTest -  Suite started at Tue Apr 11 06:57:34 IST 2023
+[INFO ] 2023-04-11 06:57:34.317 [main] RunCukesTest - Suite Execution For Web application on environment : Local
+[INFO ] 2023-04-11 06:57:34.317 [main] RunCukesTest - Suite Execution For Android mobile application on version: 12.0
+[INFO ] 2023-04-11 06:57:34.317 [main] RunCukesTest - Suite Execution For Android mobile application on Device: Redmi Note 10 Pro
+[INFO ] 2023-04-11 06:57:34.317 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-11 06:57:35.488 [main] Hooks - 
++----------------------------------------------------------------------------------------------------------------------------+
+[INFO ] 2023-04-11 06:57:35.488 [main] Hooks - Test Started: Verify that the user is able to add a product to the cart
+[INFO ] 2023-04-11 06:57:35.488 [main] Hooks - Test is executed in Environment: Local
+[INFO ] 2023-04-11 06:57:35.488 [main] Hooks - Test is started with browser: CHROME
+[INFO ] 2023-04-11 06:57:38.708 [main] KeywordUtil - Navigate to: https://www.nykaa.com
+[INFO ] 2023-04-11 06:57:39.952 [main] KeywordUtil - Buy Cosmetics Products & Beauty Products Online in India at Best Price | Nykaa
+[INFO ] 2023-04-11 06:57:40.303 [main] KeywordUtil - Click : By.xpath: //button[text()='Sign in']
+[INFO ] 2023-04-11 06:57:40.593 [main] KeywordUtil - Click : By.xpath: //button[text()='Sign in with Mobile / Email']
+[INFO ] 2023-04-11 06:57:51.134 [main] HTMLReportUtil - ExecutionReports\FailedScreenshots\ScreenShot_1681176470825.png
+[INFO ] 2023-04-11 06:57:54.107 [main] RunCukesTest -  suite finished at Tue Apr 11 06:57:54 IST 2023
+[INFO ] 2023-04-11 06:57:54.107 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-11 06:57:54.693 [main] KeywordUtil - Test process has ended
+[INFO ] 2023-04-11 06:57:54.693 [main] KeywordUtil - Email Flag Set To: N
+[INFO ] 2023-04-11 06:57:54.693 [main] KeywordUtil - cucumber path isC:\Users\padmini\Documents\Tx_Pratice-Nykaa_S\target/cucumber-html-report.html
+[INFO ] 2023-04-11 06:57:54.756 [main] KeywordUtil - Extent Report File path is  C:\Users\padmini\Documents\Tx_Pratice-Nykaa_S\ExecutionReports\HTMLReportsBackup\WelMartWeb.html
+[INFO ] 2023-04-11 07:04:39.477 [main] ExcelToCSVConverter - Generated CSV file is added to : C:\Users\padmini\Documents\Tx_Pratice-Nykaa_S/src/test/resources/CsvFiles/ArtistGrowthUsers.csv
+[INFO ] 2023-04-11 07:04:39.594 [main] RunCukesTest - CHROME
+[INFO ] 2023-04-11 07:04:39.594 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-11 07:04:39.594 [main] RunCukesTest -  Suite started at Tue Apr 11 07:04:39 IST 2023
+[INFO ] 2023-04-11 07:04:39.594 [main] RunCukesTest - Suite Execution For Web application on environment : Local
+[INFO ] 2023-04-11 07:04:39.598 [main] RunCukesTest - Suite Execution For Android mobile application on version: 12.0
+[INFO ] 2023-04-11 07:04:39.598 [main] RunCukesTest - Suite Execution For Android mobile application on Device: Redmi Note 10 Pro
+[INFO ] 2023-04-11 07:04:39.598 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-11 07:04:40.729 [main] Hooks - 
++----------------------------------------------------------------------------------------------------------------------------+
+[INFO ] 2023-04-11 07:04:40.729 [main] Hooks - Test Started: Verify that the user is able to add a product to the cart
+[INFO ] 2023-04-11 07:04:40.729 [main] Hooks - Test is executed in Environment: Local
+[INFO ] 2023-04-11 07:04:40.729 [main] Hooks - Test is started with browser: CHROME
+[INFO ] 2023-04-11 07:04:43.499 [main] KeywordUtil - Navigate to: https://www.nykaa.com
+[INFO ] 2023-04-11 07:04:44.427 [main] KeywordUtil - Buy Cosmetics Products & Beauty Products Online in India at Best Price | Nykaa
+[INFO ] 2023-04-11 07:04:44.970 [main] KeywordUtil - Click : By.xpath: //button[text()='Sign in']
+[INFO ] 2023-04-11 07:04:45.279 [main] KeywordUtil - Click : By.xpath: //button[text()='Sign in with Mobile / Email']
+[INFO ] 2023-04-11 07:04:45.436 [main] KeywordUtil - Input Text: 7973181969 - By.cssSelector: Enter Email ID or Phone Number
+[INFO ] 2023-04-11 07:05:20.737 [main] HTMLReportUtil - ExecutionReports\FailedScreenshots\ScreenShot_1681176920409.png
+[INFO ] 2023-04-11 07:05:23.514 [main] RunCukesTest -  suite finished at Tue Apr 11 07:05:23 IST 2023
+[INFO ] 2023-04-11 07:05:23.514 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-11 07:05:23.960 [main] KeywordUtil - Test process has ended
+[INFO ] 2023-04-11 07:05:23.960 [main] KeywordUtil - Email Flag Set To: N
+[INFO ] 2023-04-11 07:05:23.965 [main] KeywordUtil - cucumber path isC:\Users\padmini\Documents\Tx_Pratice-Nykaa_S\target/cucumber-html-report.html
+[INFO ] 2023-04-11 07:05:23.999 [main] KeywordUtil - Extent Report File path is  C:\Users\padmini\Documents\Tx_Pratice-Nykaa_S\ExecutionReports\HTMLReportsBackup\WelMartWeb.html
+[INFO ] 2023-04-11 07:07:21.070 [main] ExcelToCSVConverter - Generated CSV file is added to : C:\Users\padmini\Documents\Tx_Pratice-Nykaa_S/src/test/resources/CsvFiles/ArtistGrowthUsers.csv
+[INFO ] 2023-04-11 07:07:21.160 [main] RunCukesTest - CHROME
+[INFO ] 2023-04-11 07:07:21.160 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-11 07:07:21.161 [main] RunCukesTest -  Suite started at Tue Apr 11 07:07:21 IST 2023
+[INFO ] 2023-04-11 07:07:21.161 [main] RunCukesTest - Suite Execution For Web application on environment : Local
+[INFO ] 2023-04-11 07:07:21.161 [main] RunCukesTest - Suite Execution For Android mobile application on version: 12.0
+[INFO ] 2023-04-11 07:07:21.161 [main] RunCukesTest - Suite Execution For Android mobile application on Device: Redmi Note 10 Pro
+[INFO ] 2023-04-11 07:07:21.161 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-11 07:07:22.113 [main] Hooks - 
++----------------------------------------------------------------------------------------------------------------------------+
+[INFO ] 2023-04-11 07:07:22.113 [main] Hooks - Test Started: Verify that the user is able to add a product to the cart
+[INFO ] 2023-04-11 07:07:22.113 [main] Hooks - Test is executed in Environment: Local
+[INFO ] 2023-04-11 07:07:22.113 [main] Hooks - Test is started with browser: CHROME
+[INFO ] 2023-04-11 07:07:24.807 [main] KeywordUtil - Navigate to: https://www.nykaa.com
+[INFO ] 2023-04-11 07:07:25.591 [main] KeywordUtil - Buy Cosmetics Products & Beauty Products Online in India at Best Price | Nykaa
+[INFO ] 2023-04-11 07:07:26.161 [main] KeywordUtil - Click : By.xpath: //button[text()='Sign in']
+[INFO ] 2023-04-11 07:07:26.500 [main] KeywordUtil - Click : By.xpath: //button[text()='Sign in with Mobile / Email']
+[INFO ] 2023-04-11 07:07:26.631 [main] KeywordUtil - Input Text: 7973181969 - By.cssSelector: input[placeholder='Enter Email ID or Phone Number']
+[INFO ] 2023-04-11 07:07:31.965 [main] KeywordUtil - Click : By.cssSelector: button[id='submitVerification']
+[INFO ] 2023-04-11 07:08:01.642 [main] HTMLReportUtil - ExecutionReports\FailedScreenshots\ScreenShot_1681177080332.png
+[INFO ] 2023-04-11 07:08:05.724 [main] RunCukesTest -  suite finished at Tue Apr 11 07:08:05 IST 2023
+[INFO ] 2023-04-11 07:08:05.724 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-11 07:08:06.524 [main] KeywordUtil - Test process has ended
+[INFO ] 2023-04-11 07:08:06.524 [main] KeywordUtil - Email Flag Set To: N
+[INFO ] 2023-04-11 07:08:06.533 [main] KeywordUtil - cucumber path isC:\Users\padmini\Documents\Tx_Pratice-Nykaa_S\target/cucumber-html-report.html
+[INFO ] 2023-04-11 07:08:06.572 [main] KeywordUtil - Extent Report File path is  C:\Users\padmini\Documents\Tx_Pratice-Nykaa_S\ExecutionReports\HTMLReportsBackup\WelMartWeb.html

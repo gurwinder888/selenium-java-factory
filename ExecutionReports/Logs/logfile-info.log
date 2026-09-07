@@ -1,0 +1,112 @@
+[INFO ] 2023-05-17 11:04:06.725 [main] ExcelToCSVConverter - Generated CSV file is added to : /Users/atul/Downloads/Tx_WWP/src/test/resources/CsvFiles/ArtistGrowthUsers.csv
+[INFO ] 2023-05-17 11:04:06.869 [main] RunCukesTest - CHROME
+[INFO ] 2023-05-17 11:04:06.869 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-05-17 11:04:06.879 [main] RunCukesTest -  Suite started at Wed May 17 11:04:06 IST 2023
+[INFO ] 2023-05-17 11:04:06.880 [main] RunCukesTest - Suite Execution For Web application on environment : Local
+[INFO ] 2023-05-17 11:04:06.885 [main] RunCukesTest - Suite Execution For Android mobile application on version: 12.0
+[INFO ] 2023-05-17 11:04:06.885 [main] RunCukesTest - Suite Execution For Android mobile application on Device: Redmi Note 10 Pro
+[INFO ] 2023-05-17 11:04:06.885 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-05-17 11:04:07.471 [main] Hooks - Mobile Tests Started: Verify that user is able to login to the app
+[INFO ] 2023-05-17 11:04:07.472 [main] Hooks - Mobile Test is executed in OS: null
+[INFO ] 2023-05-17 11:04:07.494 [main] DriverUtil - Execution started for iOS on device - iPhone 12 with OS Version - 15.5
+[INFO ] 2023-05-17 11:04:16.714 [main] Hooks - Test has ended closing Application: null
+[INFO ] 2023-05-17 11:04:18.014 [main] RunCukesTest -  suite finished at Wed May 17 11:04:18 IST 2023
+[INFO ] 2023-05-17 11:04:18.014 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-05-17 11:04:18.331 [main] KeywordUtil - Test process has ended
+[INFO ] 2023-05-17 11:04:18.331 [main] KeywordUtil - Email Flag Set To: N
+[INFO ] 2023-05-17 11:04:18.333 [main] KeywordUtil - cucumber path is/Users/atul/Downloads/Tx_WWP\target/cucumber-html-report.html
+[INFO ] 2023-05-17 11:04:18.352 [main] KeywordUtil - Extent Report File path is  /Users/atul/Downloads/Tx_WWP/ExecutionReports/HTMLReportsBackup/IOS.html
+[INFO ] 2023-05-17 11:17:48.101 [main] ExcelToCSVConverter - Generated CSV file is added to : /Users/atul/Downloads/Tx_WWP/src/test/resources/CsvFiles/ArtistGrowthUsers.csv
+[INFO ] 2023-05-17 11:17:48.233 [main] RunCukesTest - CHROME
+[INFO ] 2023-05-17 11:17:48.234 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-05-17 11:17:48.242 [main] RunCukesTest -  Suite started at Wed May 17 11:17:48 IST 2023
+[INFO ] 2023-05-17 11:17:48.242 [main] RunCukesTest - Suite Execution For Web application on environment : Local
+[INFO ] 2023-05-17 11:17:48.244 [main] RunCukesTest - Suite Execution For Android mobile application on version: 12.0
+[INFO ] 2023-05-17 11:17:48.244 [main] RunCukesTest - Suite Execution For Android mobile application on Device: Redmi Note 10 Pro
+[INFO ] 2023-05-17 11:17:48.244 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-05-17 11:17:48.829 [main] Hooks - Mobile Tests Started: Verify that user is able to login to the app
+[INFO ] 2023-05-17 11:17:48.830 [main] Hooks - Mobile Test is executed in OS: null
+[INFO ] 2023-05-17 11:17:48.853 [main] DriverUtil - Execution started for iOS on device - iPhone 12 with OS Version - 15.5
+[INFO ] 2023-05-17 11:17:56.400 [main] Hooks - Test has ended closing Application: null
+[INFO ] 2023-05-17 11:17:57.669 [main] RunCukesTest -  suite finished at Wed May 17 11:17:57 IST 2023
+[INFO ] 2023-05-17 11:17:57.670 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-05-17 11:17:57.964 [main] KeywordUtil - Test process has ended
+[INFO ] 2023-05-17 11:17:57.965 [main] KeywordUtil - Email Flag Set To: N
+[INFO ] 2023-05-17 11:17:57.966 [main] KeywordUtil - cucumber path is/Users/atul/Downloads/Tx_WWP\target/cucumber-html-report.html
+[INFO ] 2023-05-17 11:17:57.985 [main] KeywordUtil - Extent Report File path is  /Users/atul/Downloads/Tx_WWP/ExecutionReports/HTMLReportsBackup/IOS.html
+[INFO ] 2023-05-17 11:40:55.603 [main] ExcelToCSVConverter - Generated CSV file is added to : /Users/atul/Downloads/Tx_WWP/src/test/resources/CsvFiles/ArtistGrowthUsers.csv
+[INFO ] 2023-05-17 11:40:55.744 [main] RunCukesTest - CHROME
+[INFO ] 2023-05-17 11:40:55.745 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-05-17 11:40:55.751 [main] RunCukesTest -  Suite started at Wed May 17 11:40:55 IST 2023
+[INFO ] 2023-05-17 11:40:55.751 [main] RunCukesTest - Suite Execution For Web application on environment : Local
+[INFO ] 2023-05-17 11:40:55.753 [main] RunCukesTest - Suite Execution For Android mobile application on version: 12.0
+[INFO ] 2023-05-17 11:40:55.753 [main] RunCukesTest - Suite Execution For Android mobile application on Device: Redmi Note 10 Pro
+[INFO ] 2023-05-17 11:40:55.753 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-05-17 11:40:56.396 [main] RunCukesTest -  suite finished at Wed May 17 11:40:56 IST 2023
+[INFO ] 2023-05-17 11:40:56.396 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-05-17 11:40:56.619 [main] KeywordUtil - Test process has ended
+[INFO ] 2023-05-17 11:40:56.619 [main] KeywordUtil - Email Flag Set To: N
+[INFO ] 2023-05-17 11:40:56.620 [main] KeywordUtil - cucumber path is/Users/atul/Downloads/Tx_WWP\target/cucumber-html-report.html
+[INFO ] 2023-05-17 11:40:56.640 [main] KeywordUtil - Extent Report File path is  /Users/atul/Downloads/Tx_WWP/ExecutionReports/HTMLReportsBackup/null.html
+[INFO ] 2023-05-17 11:44:06.541 [main] ExcelToCSVConverter - Generated CSV file is added to : /Users/atul/Downloads/Tx_WWP/src/test/resources/CsvFiles/ArtistGrowthUsers.csv
+[INFO ] 2023-05-17 11:44:06.683 [main] RunCukesTest - CHROME
+[INFO ] 2023-05-17 11:44:06.684 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-05-17 11:44:06.699 [main] RunCukesTest -  Suite started at Wed May 17 11:44:06 IST 2023
+[INFO ] 2023-05-17 11:44:06.700 [main] RunCukesTest - Suite Execution For Web application on environment : Local
+[INFO ] 2023-05-17 11:44:06.711 [main] RunCukesTest - Suite Execution For Android mobile application on version: 12.0
+[INFO ] 2023-05-17 11:44:06.711 [main] RunCukesTest - Suite Execution For Android mobile application on Device: Redmi Note 10 Pro
+[INFO ] 2023-05-17 11:44:06.711 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-05-17 11:44:07.351 [main] RunCukesTest -  suite finished at Wed May 17 11:44:07 IST 2023
+[INFO ] 2023-05-17 11:44:07.351 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-05-17 11:44:07.591 [main] KeywordUtil - Test process has ended
+[INFO ] 2023-05-17 11:44:07.592 [main] KeywordUtil - Email Flag Set To: N
+[INFO ] 2023-05-17 11:44:07.595 [main] KeywordUtil - cucumber path is/Users/atul/Downloads/Tx_WWP\target/cucumber-html-report.html
+[INFO ] 2023-05-17 11:44:07.612 [main] KeywordUtil - Extent Report File path is  /Users/atul/Downloads/Tx_WWP/ExecutionReports/HTMLReportsBackup/null.html
+[INFO ] 2023-05-17 11:48:53.109 [main] ExcelToCSVConverter - Generated CSV file is added to : /Users/atul/Downloads/Tx_WWP/src/test/resources/CsvFiles/ArtistGrowthUsers.csv
+[INFO ] 2023-05-17 11:48:53.239 [main] RunCukesTest - CHROME
+[INFO ] 2023-05-17 11:48:53.240 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-05-17 11:48:53.247 [main] RunCukesTest -  Suite started at Wed May 17 11:48:53 IST 2023
+[INFO ] 2023-05-17 11:48:53.248 [main] RunCukesTest - Suite Execution For Web application on environment : Local
+[INFO ] 2023-05-17 11:48:53.252 [main] RunCukesTest - Suite Execution For Android mobile application on version: 12.0
+[INFO ] 2023-05-17 11:48:53.253 [main] RunCukesTest - Suite Execution For Android mobile application on Device: Redmi Note 10 Pro
+[INFO ] 2023-05-17 11:48:53.253 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-05-17 11:48:53.888 [main] Hooks - Mobile Tests Started: Verify that user is able to login to the app
+[INFO ] 2023-05-17 11:48:53.889 [main] Hooks - Mobile Test is executed in OS: null
+[INFO ] 2023-05-17 11:48:53.910 [main] DriverUtil - Execution started for iOS on device - iPhone 12 with OS Version - 15.5
+[INFO ] 2023-05-17 11:49:01.427 [main] Hooks - Test has ended closing Application: null
+[INFO ] 2023-05-17 11:49:02.705 [main] RunCukesTest -  suite finished at Wed May 17 11:49:02 IST 2023
+[INFO ] 2023-05-17 11:49:02.707 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-05-17 11:49:02.993 [main] KeywordUtil - Test process has ended
+[INFO ] 2023-05-17 11:49:02.993 [main] KeywordUtil - Email Flag Set To: N
+[INFO ] 2023-05-17 11:49:02.994 [main] KeywordUtil - cucumber path is/Users/atul/Downloads/Tx_WWP\target/cucumber-html-report.html
+[INFO ] 2023-05-17 11:49:03.009 [main] KeywordUtil - Extent Report File path is  /Users/atul/Downloads/Tx_WWP/ExecutionReports/HTMLReportsBackup/IOS.html

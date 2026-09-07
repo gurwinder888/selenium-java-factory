@@ -1,0 +1,519 @@
+[INFO ] 2023-04-09 00:41:11.715 [main] ExcelToCSVConverter - Generated CSV file is added to : C:\Users\padmini\Documents\Tx_Pratice-Nykaa_S/src/test/resources/CsvFiles/ArtistGrowthUsers.csv
+[INFO ] 2023-04-09 00:41:11.832 [main] RunCukesTest - CHROME
+[INFO ] 2023-04-09 00:41:11.832 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 00:41:11.832 [main] RunCukesTest -  Suite started at Sun Apr 09 00:41:11 IST 2023
+[INFO ] 2023-04-09 00:41:11.832 [main] RunCukesTest - Suite Execution For Web application on environment : Local
+[INFO ] 2023-04-09 00:41:11.840 [main] RunCukesTest - Suite Execution For Android mobile application on version: 12.0
+[INFO ] 2023-04-09 00:41:11.840 [main] RunCukesTest - Suite Execution For Android mobile application on Device: Redmi Note 10 Pro
+[INFO ] 2023-04-09 00:41:11.841 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 00:41:12.903 [main] Hooks - Mobile Tests Started: Verify that user is able to login to the app
+[INFO ] 2023-04-09 00:41:12.903 [main] Hooks - Mobile Test is executed in OS: Google Pixel 3 GoogleAPI Emulator
+[INFO ] 2023-04-09 00:41:12.985 [main] DriverUtil - Execution started for Android on device - IRO7EINVEECQZT95 with OS Version - 10
+[INFO ] 2023-04-09 00:42:58.750 [main] RunCukesTest -  suite finished at Sun Apr 09 00:42:58 IST 2023
+[INFO ] 2023-04-09 00:42:58.750 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 00:42:59.291 [main] KeywordUtil - Test process has ended
+[INFO ] 2023-04-09 00:42:59.291 [main] KeywordUtil - Email Flag Set To: N
+[INFO ] 2023-04-09 00:42:59.291 [main] KeywordUtil - cucumber path isC:\Users\padmini\Documents\Tx_Pratice-Nykaa_S\target/cucumber-html-report.html
+[INFO ] 2023-04-09 00:42:59.345 [main] KeywordUtil - Extent Report File path is  C:\Users\padmini\Documents\Tx_Pratice-Nykaa_S\ExecutionReports\HTMLReportsBackup\WelMartAndroid.html
+[INFO ] 2023-04-09 00:44:02.603 [main] ExcelToCSVConverter - Generated CSV file is added to : C:\Users\padmini\Documents\Tx_Pratice-Nykaa_S/src/test/resources/CsvFiles/ArtistGrowthUsers.csv
+[INFO ] 2023-04-09 00:44:02.711 [main] RunCukesTest - CHROME
+[INFO ] 2023-04-09 00:44:02.711 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 00:44:02.711 [main] RunCukesTest -  Suite started at Sun Apr 09 00:44:02 IST 2023
+[INFO ] 2023-04-09 00:44:02.711 [main] RunCukesTest - Suite Execution For Web application on environment : Local
+[INFO ] 2023-04-09 00:44:02.716 [main] RunCukesTest - Suite Execution For Android mobile application on version: 12.0
+[INFO ] 2023-04-09 00:44:02.716 [main] RunCukesTest - Suite Execution For Android mobile application on Device: Redmi Note 10 Pro
+[INFO ] 2023-04-09 00:44:02.716 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 00:44:03.783 [main] Hooks - Mobile Tests Started: Verify that user is able to login to the app
+[INFO ] 2023-04-09 00:44:03.783 [main] Hooks - Mobile Test is executed in OS: Google Pixel 3 GoogleAPI Emulator
+[INFO ] 2023-04-09 00:44:03.904 [main] DriverUtil - Execution started for Android on device - IRO7EINVEECQZT95 with OS Version - 10
+[INFO ] 2023-04-09 00:45:44.968 [main] RunCukesTest -  suite finished at Sun Apr 09 00:45:44 IST 2023
+[INFO ] 2023-04-09 00:45:44.968 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 00:45:45.432 [main] KeywordUtil - Test process has ended
+[INFO ] 2023-04-09 00:45:45.432 [main] KeywordUtil - Email Flag Set To: N
+[INFO ] 2023-04-09 00:45:45.432 [main] KeywordUtil - cucumber path isC:\Users\padmini\Documents\Tx_Pratice-Nykaa_S\target/cucumber-html-report.html
+[INFO ] 2023-04-09 00:45:45.509 [main] KeywordUtil - Extent Report File path is  C:\Users\padmini\Documents\Tx_Pratice-Nykaa_S\ExecutionReports\HTMLReportsBackup\WelMartAndroid.html
+[INFO ] 2023-04-09 00:47:23.788 [main] ExcelToCSVConverter - Generated CSV file is added to : C:\Users\padmini\Documents\Tx_Pratice-Nykaa_S/src/test/resources/CsvFiles/ArtistGrowthUsers.csv
+[INFO ] 2023-04-09 00:47:23.890 [main] RunCukesTest - CHROME
+[INFO ] 2023-04-09 00:47:23.890 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 00:47:23.890 [main] RunCukesTest -  Suite started at Sun Apr 09 00:47:23 IST 2023
+[INFO ] 2023-04-09 00:47:23.890 [main] RunCukesTest - Suite Execution For Web application on environment : Local
+[INFO ] 2023-04-09 00:47:23.890 [main] RunCukesTest - Suite Execution For Android mobile application on version: 12.0
+[INFO ] 2023-04-09 00:47:23.890 [main] RunCukesTest - Suite Execution For Android mobile application on Device: Redmi Note 10 Pro
+[INFO ] 2023-04-09 00:47:23.890 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 00:47:24.882 [main] Hooks - Mobile Tests Started: Verify that user is able to login to the app
+[INFO ] 2023-04-09 00:47:24.882 [main] Hooks - Mobile Test is executed in OS: Google Pixel 3 GoogleAPI Emulator
+[INFO ] 2023-04-09 00:47:24.962 [main] DriverUtil - Execution started for Android on device - IRO7EINVEECQZT95 with OS Version - 10
+[INFO ] 2023-04-09 00:48:29.401 [main] KeywordUtil - Sign In Button  is enabled
+[INFO ] 2023-04-09 00:48:50.954 [main] HTMLReportUtil - ExecutionReports\FailedScreenshots\ScreenShot_1680981530181.png
+[INFO ] 2023-04-09 00:49:14.840 [main] RunCukesTest -  suite finished at Sun Apr 09 00:49:14 IST 2023
+[INFO ] 2023-04-09 00:49:14.840 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 00:49:15.262 [main] KeywordUtil - Test process has ended
+[INFO ] 2023-04-09 00:49:15.262 [main] KeywordUtil - Email Flag Set To: N
+[INFO ] 2023-04-09 00:49:15.267 [main] KeywordUtil - cucumber path isC:\Users\padmini\Documents\Tx_Pratice-Nykaa_S\target/cucumber-html-report.html
+[INFO ] 2023-04-09 00:49:15.308 [main] KeywordUtil - Extent Report File path is  C:\Users\padmini\Documents\Tx_Pratice-Nykaa_S\ExecutionReports\HTMLReportsBackup\WelMartAndroid.html
+[INFO ] 2023-04-09 19:58:26.686 [main] ExcelToCSVConverter - Generated CSV file is added to : C:\Users\padmini\Documents\Tx_Pratice-Nykaa_S/src/test/resources/CsvFiles/ArtistGrowthUsers.csv
+[INFO ] 2023-04-09 19:58:26.802 [main] RunCukesTest - CHROME
+[INFO ] 2023-04-09 19:58:26.802 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 19:58:26.802 [main] RunCukesTest -  Suite started at Sun Apr 09 19:58:26 IST 2023
+[INFO ] 2023-04-09 19:58:26.802 [main] RunCukesTest - Suite Execution For Web application on environment : Local
+[INFO ] 2023-04-09 19:58:26.802 [main] RunCukesTest - Suite Execution For Android mobile application on version: 12.0
+[INFO ] 2023-04-09 19:58:26.802 [main] RunCukesTest - Suite Execution For Android mobile application on Device: Redmi Note 10 Pro
+[INFO ] 2023-04-09 19:58:26.808 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 19:58:27.958 [main] Hooks - Mobile Tests Started: Verify that user is able to login to the app
+[INFO ] 2023-04-09 19:58:27.958 [main] Hooks - Mobile Test is executed in OS: Google Pixel 3 GoogleAPI Emulator
+[INFO ] 2023-04-09 19:58:28.041 [main] DriverUtil - Execution started for Android on device - IRO7EINVEECQZT95 with OS Version - 10
+[INFO ] 2023-04-09 19:58:31.057 [main] RunCukesTest -  suite finished at Sun Apr 09 19:58:31 IST 2023
+[INFO ] 2023-04-09 19:58:31.057 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 19:58:31.466 [main] KeywordUtil - Test process has ended
+[INFO ] 2023-04-09 19:58:31.466 [main] KeywordUtil - Email Flag Set To: N
+[INFO ] 2023-04-09 19:58:31.466 [main] KeywordUtil - cucumber path isC:\Users\padmini\Documents\Tx_Pratice-Nykaa_S\target/cucumber-html-report.html
+[INFO ] 2023-04-09 19:58:31.529 [main] KeywordUtil - Extent Report File path is  C:\Users\padmini\Documents\Tx_Pratice-Nykaa_S\ExecutionReports\HTMLReportsBackup\WelMartAndroid.html
+[INFO ] 2023-04-09 19:59:12.548 [main] ExcelToCSVConverter - Generated CSV file is added to : C:\Users\padmini\Documents\Tx_Pratice-Nykaa_S/src/test/resources/CsvFiles/ArtistGrowthUsers.csv
+[INFO ] 2023-04-09 19:59:12.663 [main] RunCukesTest - CHROME
+[INFO ] 2023-04-09 19:59:12.663 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 19:59:12.663 [main] RunCukesTest -  Suite started at Sun Apr 09 19:59:12 IST 2023
+[INFO ] 2023-04-09 19:59:12.670 [main] RunCukesTest - Suite Execution For Web application on environment : Local
+[INFO ] 2023-04-09 19:59:12.672 [main] RunCukesTest - Suite Execution For Android mobile application on version: 12.0
+[INFO ] 2023-04-09 19:59:12.672 [main] RunCukesTest - Suite Execution For Android mobile application on Device: Redmi Note 10 Pro
+[INFO ] 2023-04-09 19:59:12.673 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 19:59:13.732 [main] Hooks - Mobile Tests Started: Verify that user is able to login to the app
+[INFO ] 2023-04-09 19:59:13.732 [main] Hooks - Mobile Test is executed in OS: Google Pixel 3 GoogleAPI Emulator
+[INFO ] 2023-04-09 19:59:13.821 [main] DriverUtil - Execution started for Android on device - IRO7EINVEECQZT95 with OS Version - 10
+[INFO ] 2023-04-09 19:59:16.710 [main] RunCukesTest -  suite finished at Sun Apr 09 19:59:16 IST 2023
+[INFO ] 2023-04-09 19:59:16.710 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 19:59:17.133 [main] KeywordUtil - Test process has ended
+[INFO ] 2023-04-09 19:59:17.133 [main] KeywordUtil - Email Flag Set To: N
+[INFO ] 2023-04-09 19:59:17.133 [main] KeywordUtil - cucumber path isC:\Users\padmini\Documents\Tx_Pratice-Nykaa_S\target/cucumber-html-report.html
+[INFO ] 2023-04-09 19:59:17.175 [main] KeywordUtil - Extent Report File path is  C:\Users\padmini\Documents\Tx_Pratice-Nykaa_S\ExecutionReports\HTMLReportsBackup\WelMartAndroid.html
+[INFO ] 2023-04-09 20:01:34.014 [main] ExcelToCSVConverter - Generated CSV file is added to : C:\Users\padmini\Documents\Tx_Pratice-Nykaa_S/src/test/resources/CsvFiles/ArtistGrowthUsers.csv
+[INFO ] 2023-04-09 20:01:34.142 [main] RunCukesTest - CHROME
+[INFO ] 2023-04-09 20:01:34.144 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 20:01:34.144 [main] RunCukesTest -  Suite started at Sun Apr 09 20:01:34 IST 2023
+[INFO ] 2023-04-09 20:01:34.144 [main] RunCukesTest - Suite Execution For Web application on environment : Local
+[INFO ] 2023-04-09 20:01:34.144 [main] RunCukesTest - Suite Execution For Android mobile application on version: 12.0
+[INFO ] 2023-04-09 20:01:34.144 [main] RunCukesTest - Suite Execution For Android mobile application on Device: Redmi Note 10 Pro
+[INFO ] 2023-04-09 20:01:34.144 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 20:01:35.268 [main] Hooks - Mobile Tests Started: Verify that user is able to login to the app
+[INFO ] 2023-04-09 20:01:35.268 [main] Hooks - Mobile Test is executed in OS: Google Pixel 3 GoogleAPI Emulator
+[INFO ] 2023-04-09 20:01:35.342 [main] DriverUtil - Execution started for Android on device - IRO7EINVEECQZT95 with OS Version - 10
+[INFO ] 2023-04-09 20:02:40.054 [main] RunCukesTest -  suite finished at Sun Apr 09 20:02:40 IST 2023
+[INFO ] 2023-04-09 20:02:40.054 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 20:02:40.460 [main] KeywordUtil - Test process has ended
+[INFO ] 2023-04-09 20:02:40.460 [main] KeywordUtil - Email Flag Set To: N
+[INFO ] 2023-04-09 20:02:40.461 [main] KeywordUtil - cucumber path isC:\Users\padmini\Documents\Tx_Pratice-Nykaa_S\target/cucumber-html-report.html
+[INFO ] 2023-04-09 20:02:40.534 [main] KeywordUtil - Extent Report File path is  C:\Users\padmini\Documents\Tx_Pratice-Nykaa_S\ExecutionReports\HTMLReportsBackup\WelMartAndroid.html
+[INFO ] 2023-04-09 20:03:31.311 [main] ExcelToCSVConverter - Generated CSV file is added to : C:\Users\padmini\Documents\Tx_Pratice-Nykaa_S/src/test/resources/CsvFiles/ArtistGrowthUsers.csv
+[INFO ] 2023-04-09 20:03:31.416 [main] RunCukesTest - CHROME
+[INFO ] 2023-04-09 20:03:31.421 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 20:03:31.421 [main] RunCukesTest -  Suite started at Sun Apr 09 20:03:31 IST 2023
+[INFO ] 2023-04-09 20:03:31.421 [main] RunCukesTest - Suite Execution For Web application on environment : Local
+[INFO ] 2023-04-09 20:03:31.421 [main] RunCukesTest - Suite Execution For Android mobile application on version: 12.0
+[INFO ] 2023-04-09 20:03:31.421 [main] RunCukesTest - Suite Execution For Android mobile application on Device: Redmi Note 10 Pro
+[INFO ] 2023-04-09 20:03:31.421 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 20:03:32.553 [main] Hooks - Mobile Tests Started: Verify that user is able to login to the app
+[INFO ] 2023-04-09 20:03:32.553 [main] Hooks - Mobile Test is executed in OS: Google Pixel 3 GoogleAPI Emulator
+[INFO ] 2023-04-09 20:03:32.635 [main] DriverUtil - Execution started for Android on device - IRO7EINVEECQZT95 with OS Version - 10
+[INFO ] 2023-04-09 20:04:43.047 [main] KeywordUtil - Sign In Button  is enabled
+[INFO ] 2023-04-09 20:05:05.399 [main] HTMLReportUtil - ExecutionReports\FailedScreenshots\ScreenShot_1681050904491.png
+[INFO ] 2023-04-09 20:05:28.903 [main] RunCukesTest -  suite finished at Sun Apr 09 20:05:28 IST 2023
+[INFO ] 2023-04-09 20:05:28.903 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 20:05:29.346 [main] KeywordUtil - Test process has ended
+[INFO ] 2023-04-09 20:05:29.346 [main] KeywordUtil - Email Flag Set To: N
+[INFO ] 2023-04-09 20:05:29.346 [main] KeywordUtil - cucumber path isC:\Users\padmini\Documents\Tx_Pratice-Nykaa_S\target/cucumber-html-report.html
+[INFO ] 2023-04-09 20:05:29.403 [main] KeywordUtil - Extent Report File path is  C:\Users\padmini\Documents\Tx_Pratice-Nykaa_S\ExecutionReports\HTMLReportsBackup\WelMartAndroid.html
+[INFO ] 2023-04-09 20:09:04.175 [main] ExcelToCSVConverter - Generated CSV file is added to : C:\Users\padmini\Documents\Tx_Pratice-Nykaa_S/src/test/resources/CsvFiles/ArtistGrowthUsers.csv
+[INFO ] 2023-04-09 20:09:04.281 [main] RunCukesTest - CHROME
+[INFO ] 2023-04-09 20:09:04.281 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 20:09:04.281 [main] RunCukesTest -  Suite started at Sun Apr 09 20:09:04 IST 2023
+[INFO ] 2023-04-09 20:09:04.281 [main] RunCukesTest - Suite Execution For Web application on environment : Local
+[INFO ] 2023-04-09 20:09:04.281 [main] RunCukesTest - Suite Execution For Android mobile application on version: 12.0
+[INFO ] 2023-04-09 20:09:04.281 [main] RunCukesTest - Suite Execution For Android mobile application on Device: Redmi Note 10 Pro
+[INFO ] 2023-04-09 20:09:04.281 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 20:09:05.290 [main] Hooks - Mobile Tests Started: Verify that user is able to login to the app
+[INFO ] 2023-04-09 20:09:05.290 [main] Hooks - Mobile Test is executed in OS: Google Pixel 3 GoogleAPI Emulator
+[INFO ] 2023-04-09 20:09:05.361 [main] DriverUtil - Execution started for Android on device - IRO7EINVEECQZT95 with OS Version - 10
+[INFO ] 2023-04-09 20:10:16.380 [main] KeywordUtil - Sign In Button  is enabled
+[INFO ] 2023-04-09 20:10:39.074 [main] HTMLReportUtil - ExecutionReports\FailedScreenshots\ScreenShot_1681051238225.png
+[INFO ] 2023-04-09 20:10:58.242 [main] RunCukesTest -  suite finished at Sun Apr 09 20:10:58 IST 2023
+[INFO ] 2023-04-09 20:10:58.242 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 20:10:58.672 [main] KeywordUtil - Test process has ended
+[INFO ] 2023-04-09 20:10:58.672 [main] KeywordUtil - Email Flag Set To: N
+[INFO ] 2023-04-09 20:10:58.672 [main] KeywordUtil - cucumber path isC:\Users\padmini\Documents\Tx_Pratice-Nykaa_S\target/cucumber-html-report.html
+[INFO ] 2023-04-09 20:10:58.733 [main] KeywordUtil - Extent Report File path is  C:\Users\padmini\Documents\Tx_Pratice-Nykaa_S\ExecutionReports\HTMLReportsBackup\WelMartAndroid.html
+[INFO ] 2023-04-09 20:12:14.454 [main] ExcelToCSVConverter - Generated CSV file is added to : C:\Users\padmini\Documents\Tx_Pratice-Nykaa_S/src/test/resources/CsvFiles/ArtistGrowthUsers.csv
+[INFO ] 2023-04-09 20:12:14.561 [main] RunCukesTest - CHROME
+[INFO ] 2023-04-09 20:12:14.561 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 20:12:14.561 [main] RunCukesTest -  Suite started at Sun Apr 09 20:12:14 IST 2023
+[INFO ] 2023-04-09 20:12:14.571 [main] RunCukesTest - Suite Execution For Web application on environment : Local
+[INFO ] 2023-04-09 20:12:14.571 [main] RunCukesTest - Suite Execution For Android mobile application on version: 12.0
+[INFO ] 2023-04-09 20:12:14.571 [main] RunCukesTest - Suite Execution For Android mobile application on Device: Redmi Note 10 Pro
+[INFO ] 2023-04-09 20:12:14.571 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 20:12:15.710 [main] Hooks - Mobile Tests Started: Verify that user is able to login to the app
+[INFO ] 2023-04-09 20:12:15.710 [main] Hooks - Mobile Test is executed in OS: Google Pixel 3 GoogleAPI Emulator
+[INFO ] 2023-04-09 20:12:15.792 [main] DriverUtil - Execution started for Android on device - IRO7EINVEECQZT95 with OS Version - 10
+[INFO ] 2023-04-09 20:13:30.530 [main] HTMLReportUtil - ExecutionReports\FailedScreenshots\ScreenShot_1681051409538.png
+[INFO ] 2023-04-09 20:13:54.525 [main] RunCukesTest -  suite finished at Sun Apr 09 20:13:54 IST 2023
+[INFO ] 2023-04-09 20:13:54.525 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 20:13:54.905 [main] KeywordUtil - Test process has ended
+[INFO ] 2023-04-09 20:13:54.905 [main] KeywordUtil - Email Flag Set To: N
+[INFO ] 2023-04-09 20:13:54.905 [main] KeywordUtil - cucumber path isC:\Users\padmini\Documents\Tx_Pratice-Nykaa_S\target/cucumber-html-report.html
+[INFO ] 2023-04-09 20:13:54.951 [main] KeywordUtil - Extent Report File path is  C:\Users\padmini\Documents\Tx_Pratice-Nykaa_S\ExecutionReports\HTMLReportsBackup\WelMartAndroid.html
+[INFO ] 2023-04-09 20:14:31.999 [main] ExcelToCSVConverter - Generated CSV file is added to : C:\Users\padmini\Documents\Tx_Pratice-Nykaa_S/src/test/resources/CsvFiles/ArtistGrowthUsers.csv
+[INFO ] 2023-04-09 20:14:32.102 [main] RunCukesTest - CHROME
+[INFO ] 2023-04-09 20:14:32.102 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 20:14:32.102 [main] RunCukesTest -  Suite started at Sun Apr 09 20:14:32 IST 2023
+[INFO ] 2023-04-09 20:14:32.102 [main] RunCukesTest - Suite Execution For Web application on environment : Local
+[INFO ] 2023-04-09 20:14:32.102 [main] RunCukesTest - Suite Execution For Android mobile application on version: 12.0
+[INFO ] 2023-04-09 20:14:32.102 [main] RunCukesTest - Suite Execution For Android mobile application on Device: Redmi Note 10 Pro
+[INFO ] 2023-04-09 20:14:32.102 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 20:14:33.212 [main] Hooks - Mobile Tests Started: Verify that user is able to login to the app
+[INFO ] 2023-04-09 20:14:33.221 [main] Hooks - Mobile Test is executed in OS: Google Pixel 3 GoogleAPI Emulator
+[INFO ] 2023-04-09 20:14:33.302 [main] DriverUtil - Execution started for Android on device - IRO7EINVEECQZT95 with OS Version - 10
+[INFO ] 2023-04-09 20:15:02.076 [main] RunCukesTest -  suite finished at Sun Apr 09 20:15:02 IST 2023
+[INFO ] 2023-04-09 20:15:02.076 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 20:15:02.526 [main] KeywordUtil - Test process has ended
+[INFO ] 2023-04-09 20:15:02.526 [main] KeywordUtil - Email Flag Set To: N
+[INFO ] 2023-04-09 20:15:02.536 [main] KeywordUtil - cucumber path isC:\Users\padmini\Documents\Tx_Pratice-Nykaa_S\target/cucumber-html-report.html
+[INFO ] 2023-04-09 20:15:02.567 [main] KeywordUtil - Extent Report File path is  C:\Users\padmini\Documents\Tx_Pratice-Nykaa_S\ExecutionReports\HTMLReportsBackup\WelMartAndroid.html
+[INFO ] 2023-04-09 20:15:27.057 [main] ExcelToCSVConverter - Generated CSV file is added to : C:\Users\padmini\Documents\Tx_Pratice-Nykaa_S/src/test/resources/CsvFiles/ArtistGrowthUsers.csv
+[INFO ] 2023-04-09 20:15:27.166 [main] RunCukesTest - CHROME
+[INFO ] 2023-04-09 20:15:27.166 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 20:15:27.166 [main] RunCukesTest -  Suite started at Sun Apr 09 20:15:27 IST 2023
+[INFO ] 2023-04-09 20:15:27.166 [main] RunCukesTest - Suite Execution For Web application on environment : Local
+[INFO ] 2023-04-09 20:15:27.166 [main] RunCukesTest - Suite Execution For Android mobile application on version: 12.0
+[INFO ] 2023-04-09 20:15:27.166 [main] RunCukesTest - Suite Execution For Android mobile application on Device: Redmi Note 10 Pro
+[INFO ] 2023-04-09 20:15:27.166 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 20:15:28.269 [main] Hooks - Mobile Tests Started: Verify that user is able to login to the app
+[INFO ] 2023-04-09 20:15:28.269 [main] Hooks - Mobile Test is executed in OS: Google Pixel 3 GoogleAPI Emulator
+[INFO ] 2023-04-09 20:15:28.332 [main] DriverUtil - Execution started for Android on device - IRO7EINVEECQZT95 with OS Version - 10
+[INFO ] 2023-04-09 20:17:05.658 [main] KeywordUtil - Sign In Button  is enabled
+[INFO ] 2023-04-09 20:17:27.734 [main] HTMLReportUtil - ExecutionReports\FailedScreenshots\ScreenShot_1681051646709.png
+[INFO ] 2023-04-09 20:17:52.528 [main] RunCukesTest -  suite finished at Sun Apr 09 20:17:52 IST 2023
+[INFO ] 2023-04-09 20:17:52.528 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 20:17:52.937 [main] KeywordUtil - Test process has ended
+[INFO ] 2023-04-09 20:17:52.937 [main] KeywordUtil - Email Flag Set To: N
+[INFO ] 2023-04-09 20:17:52.940 [main] KeywordUtil - cucumber path isC:\Users\padmini\Documents\Tx_Pratice-Nykaa_S\target/cucumber-html-report.html
+[INFO ] 2023-04-09 20:17:52.981 [main] KeywordUtil - Extent Report File path is  C:\Users\padmini\Documents\Tx_Pratice-Nykaa_S\ExecutionReports\HTMLReportsBackup\WelMartAndroid.html
+[INFO ] 2023-04-09 20:18:47.705 [main] ExcelToCSVConverter - Generated CSV file is added to : C:\Users\padmini\Documents\Tx_Pratice-Nykaa_S/src/test/resources/CsvFiles/ArtistGrowthUsers.csv
+[INFO ] 2023-04-09 20:18:47.813 [main] RunCukesTest - CHROME
+[INFO ] 2023-04-09 20:18:47.813 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 20:18:47.814 [main] RunCukesTest -  Suite started at Sun Apr 09 20:18:47 IST 2023
+[INFO ] 2023-04-09 20:18:47.814 [main] RunCukesTest - Suite Execution For Web application on environment : Local
+[INFO ] 2023-04-09 20:18:47.816 [main] RunCukesTest - Suite Execution For Android mobile application on version: 12.0
+[INFO ] 2023-04-09 20:18:47.816 [main] RunCukesTest - Suite Execution For Android mobile application on Device: Redmi Note 10 Pro
+[INFO ] 2023-04-09 20:18:47.816 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 20:18:48.842 [main] Hooks - Mobile Tests Started: Verify that user is able to login to the app
+[INFO ] 2023-04-09 20:18:48.842 [main] Hooks - Mobile Test is executed in OS: Google Pixel 3 GoogleAPI Emulator
+[INFO ] 2023-04-09 20:18:48.927 [main] DriverUtil - Execution started for Android on device - IRO7EINVEECQZT95 with OS Version - 10
+[INFO ] 2023-04-09 20:19:58.872 [main] KeywordUtil - Sign In Button  is enabled
+[INFO ] 2023-04-09 20:20:20.584 [main] HTMLReportUtil - ExecutionReports\FailedScreenshots\ScreenShot_1681051819685.png
+[INFO ] 2023-04-09 20:20:44.944 [main] RunCukesTest -  suite finished at Sun Apr 09 20:20:44 IST 2023
+[INFO ] 2023-04-09 20:20:44.944 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 20:20:45.358 [main] KeywordUtil - Test process has ended
+[INFO ] 2023-04-09 20:20:45.358 [main] KeywordUtil - Email Flag Set To: N
+[INFO ] 2023-04-09 20:20:45.370 [main] KeywordUtil - cucumber path isC:\Users\padmini\Documents\Tx_Pratice-Nykaa_S\target/cucumber-html-report.html
+[INFO ] 2023-04-09 20:20:45.413 [main] KeywordUtil - Extent Report File path is  C:\Users\padmini\Documents\Tx_Pratice-Nykaa_S\ExecutionReports\HTMLReportsBackup\WelMartAndroid.html
+[INFO ] 2023-04-09 20:22:59.703 [main] ExcelToCSVConverter - Generated CSV file is added to : C:\Users\padmini\Documents\Tx_Pratice-Nykaa_S/src/test/resources/CsvFiles/ArtistGrowthUsers.csv
+[INFO ] 2023-04-09 20:22:59.804 [main] RunCukesTest - CHROME
+[INFO ] 2023-04-09 20:22:59.804 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 20:22:59.808 [main] RunCukesTest -  Suite started at Sun Apr 09 20:22:59 IST 2023
+[INFO ] 2023-04-09 20:22:59.808 [main] RunCukesTest - Suite Execution For Web application on environment : Local
+[INFO ] 2023-04-09 20:22:59.809 [main] RunCukesTest - Suite Execution For Android mobile application on version: 12.0
+[INFO ] 2023-04-09 20:22:59.809 [main] RunCukesTest - Suite Execution For Android mobile application on Device: Redmi Note 10 Pro
+[INFO ] 2023-04-09 20:22:59.809 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 20:23:00.843 [main] Hooks - Mobile Tests Started: Verify that user is able to login to the app
+[INFO ] 2023-04-09 20:23:00.843 [main] Hooks - Mobile Test is executed in OS: Google Pixel 3 GoogleAPI Emulator
+[INFO ] 2023-04-09 20:23:00.943 [main] DriverUtil - Execution started for Android on device - IRO7EINVEECQZT95 with OS Version - 10
+[INFO ] 2023-04-09 20:24:11.865 [main] KeywordUtil - Sign In Button  is enabled
+[INFO ] 2023-04-09 20:24:12.635 [main] KeywordUtil -  Data entered : pbulnda@gmail.com
+[INFO ] 2023-04-09 20:24:14.401 [main] KeywordUtil -  Data entered : Padmini@23
+[INFO ] 2023-04-09 20:24:15.650 [main] KeywordUtil - Tapped on sign in
+[INFO ] 2023-04-09 20:24:15.652 [main] Hooks - Test has ended closing Application: Redmi Note 10 Pro
+[INFO ] 2023-04-09 20:24:36.844 [main] RunCukesTest -  suite finished at Sun Apr 09 20:24:36 IST 2023
+[INFO ] 2023-04-09 20:24:36.844 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 20:24:37.317 [main] KeywordUtil - Test process has ended
+[INFO ] 2023-04-09 20:24:37.317 [main] KeywordUtil - Email Flag Set To: N
+[INFO ] 2023-04-09 20:24:37.317 [main] KeywordUtil - cucumber path isC:\Users\padmini\Documents\Tx_Pratice-Nykaa_S\target/cucumber-html-report.html
+[INFO ] 2023-04-09 20:24:37.368 [main] KeywordUtil - Extent Report File path is  C:\Users\padmini\Documents\Tx_Pratice-Nykaa_S\ExecutionReports\HTMLReportsBackup\WelMartAndroid.html
+[INFO ] 2023-04-09 20:30:41.267 [main] ExcelToCSVConverter - Generated CSV file is added to : C:\Users\padmini\Documents\Tx_Pratice-Nykaa_S/src/test/resources/CsvFiles/ArtistGrowthUsers.csv
+[INFO ] 2023-04-09 20:30:41.375 [main] RunCukesTest - CHROME
+[INFO ] 2023-04-09 20:30:41.375 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 20:30:41.375 [main] RunCukesTest -  Suite started at Sun Apr 09 20:30:41 IST 2023
+[INFO ] 2023-04-09 20:30:41.380 [main] RunCukesTest - Suite Execution For Web application on environment : Local
+[INFO ] 2023-04-09 20:30:41.382 [main] RunCukesTest - Suite Execution For Android mobile application on version: 12.0
+[INFO ] 2023-04-09 20:30:41.382 [main] RunCukesTest - Suite Execution For Android mobile application on Device: Redmi Note 10 Pro
+[INFO ] 2023-04-09 20:30:41.382 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 20:30:42.458 [main] Hooks - Mobile Tests Started: Verify that user is able to login to the app
+[INFO ] 2023-04-09 20:30:42.458 [main] Hooks - Mobile Test is executed in OS: Google Pixel 3 GoogleAPI Emulator
+[INFO ] 2023-04-09 20:30:42.528 [main] DriverUtil - Execution started for Android on device - IRO7EINVEECQZT95 with OS Version - 10
+[INFO ] 2023-04-09 20:31:52.785 [main] KeywordUtil - Sign In Button  is enabled
+[INFO ] 2023-04-09 20:31:53.539 [main] KeywordUtil - Email placeholder  text matched
+[INFO ] 2023-04-09 20:31:53.775 [main] KeywordUtil - Password placeholder  text matched
+[INFO ] 2023-04-09 20:31:54.026 [main] KeywordUtil -  Data entered : pbulnda@gmail.com
+[INFO ] 2023-04-09 20:31:55.221 [main] KeywordUtil -  Data entered : Padmini@23
+[INFO ] 2023-04-09 20:31:56.823 [main] KeywordUtil - Tapped on sign in
+[INFO ] 2023-04-09 20:32:19.517 [main] HTMLReportUtil - ExecutionReports\FailedScreenshots\ScreenShot_1681052538383.png
+[INFO ] 2023-04-09 20:32:43.876 [main] Hooks - Mobile Tests Started: Search for a Product and add the item into Cart.
+[INFO ] 2023-04-09 20:32:43.876 [main] Hooks - Mobile Test is executed in OS: Google Pixel 3 GoogleAPI Emulator
+[INFO ] 2023-04-09 20:32:43.892 [main] Hooks - Test has ended closing Application: Redmi Note 10 Pro
+[INFO ] 2023-04-09 20:32:44.076 [main] RunCukesTest -  suite finished at Sun Apr 09 20:32:44 IST 2023
+[INFO ] 2023-04-09 20:32:44.076 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 20:32:44.496 [main] KeywordUtil - Test process has ended
+[INFO ] 2023-04-09 20:32:44.496 [main] KeywordUtil - Email Flag Set To: N
+[INFO ] 2023-04-09 20:32:44.496 [main] KeywordUtil - cucumber path isC:\Users\padmini\Documents\Tx_Pratice-Nykaa_S\target/cucumber-html-report.html
+[INFO ] 2023-04-09 20:32:44.543 [main] KeywordUtil - Extent Report File path is  C:\Users\padmini\Documents\Tx_Pratice-Nykaa_S\ExecutionReports\HTMLReportsBackup\WelMartAndroid.html
+[INFO ] 2023-04-09 20:51:33.730 [main] ExcelToCSVConverter - Generated CSV file is added to : C:\Users\padmini\Documents\Tx_Pratice-Nykaa_S/src/test/resources/CsvFiles/ArtistGrowthUsers.csv
+[INFO ] 2023-04-09 20:51:33.851 [main] RunCukesTest - CHROME
+[INFO ] 2023-04-09 20:51:33.851 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 20:51:33.851 [main] RunCukesTest -  Suite started at Sun Apr 09 20:51:33 IST 2023
+[INFO ] 2023-04-09 20:51:33.851 [main] RunCukesTest - Suite Execution For Web application on environment : Local
+[INFO ] 2023-04-09 20:51:33.854 [main] RunCukesTest - Suite Execution For Android mobile application on version: 12.0
+[INFO ] 2023-04-09 20:51:33.854 [main] RunCukesTest - Suite Execution For Android mobile application on Device: Redmi Note 10 Pro
+[INFO ] 2023-04-09 20:51:33.854 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 20:51:35.053 [main] Hooks - 
++----------------------------------------------------------------------------------------------------------------------------+
+[INFO ] 2023-04-09 20:51:35.053 [main] Hooks - Test Started: Verify that the user is able to add a product to the cart
+[INFO ] 2023-04-09 20:51:35.053 [main] Hooks - Test is executed in Environment: Local
+[INFO ] 2023-04-09 20:51:35.053 [main] Hooks - Test is started with browser: CHROME
+[INFO ] 2023-04-09 20:51:35.072 [main] Hooks - Test has ended closing browser: CHROME
+[INFO ] 2023-04-09 20:51:35.123 [main] Hooks - 
++----------------------------------------------------------------------------------------------------------------------------+
+[INFO ] 2023-04-09 20:51:35.123 [main] Hooks - Test Started: Verify that user is able to login to the app
+[INFO ] 2023-04-09 20:51:35.123 [main] Hooks - Test is executed in Environment: Local
+[INFO ] 2023-04-09 20:51:35.139 [main] Hooks - Test is started with browser: CHROME
+[INFO ] 2023-04-09 20:51:35.139 [main] Hooks - Test has ended closing browser: CHROME
+[INFO ] 2023-04-09 20:51:35.267 [main] RunCukesTest -  suite finished at Sun Apr 09 20:51:35 IST 2023
+[INFO ] 2023-04-09 20:51:35.267 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 20:51:35.694 [main] KeywordUtil - Test process has ended
+[INFO ] 2023-04-09 20:51:35.694 [main] KeywordUtil - Email Flag Set To: N
+[INFO ] 2023-04-09 20:51:35.697 [main] KeywordUtil - cucumber path isC:\Users\padmini\Documents\Tx_Pratice-Nykaa_S\target/cucumber-html-report.html
+[INFO ] 2023-04-09 20:51:35.739 [main] KeywordUtil - Extent Report File path is  C:\Users\padmini\Documents\Tx_Pratice-Nykaa_S\ExecutionReports\HTMLReportsBackup\WelMartWeb.html
+[INFO ] 2023-04-09 21:35:11.128 [main] ExcelToCSVConverter - Generated CSV file is added to : C:\Users\padmini\Documents\Tx_Pratice-Nykaa_S/src/test/resources/CsvFiles/ArtistGrowthUsers.csv
+[INFO ] 2023-04-09 21:35:11.266 [main] RunCukesTest - CHROME
+[INFO ] 2023-04-09 21:35:11.266 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 21:35:11.273 [main] RunCukesTest -  Suite started at Sun Apr 09 21:35:11 IST 2023
+[INFO ] 2023-04-09 21:35:11.273 [main] RunCukesTest - Suite Execution For Web application on environment : Local
+[INFO ] 2023-04-09 21:35:11.273 [main] RunCukesTest - Suite Execution For Android mobile application on version: 12.0
+[INFO ] 2023-04-09 21:35:11.273 [main] RunCukesTest - Suite Execution For Android mobile application on Device: Redmi Note 10 Pro
+[INFO ] 2023-04-09 21:35:11.273 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 21:35:12.727 [main] Hooks - 
++----------------------------------------------------------------------------------------------------------------------------+
+[INFO ] 2023-04-09 21:35:12.727 [main] Hooks - Test Started: Verify that the user is able to add a product to the cart
+[INFO ] 2023-04-09 21:35:12.727 [main] Hooks - Test is executed in Environment: Local
+[INFO ] 2023-04-09 21:35:12.727 [main] Hooks - Test is started with browser: CHROME
+[INFO ] 2023-04-09 21:35:13.036 [main] RunCukesTest -  suite finished at Sun Apr 09 21:35:13 IST 2023
+[INFO ] 2023-04-09 21:35:13.036 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 21:35:13.599 [main] KeywordUtil - Test process has ended
+[INFO ] 2023-04-09 21:35:13.599 [main] KeywordUtil - Email Flag Set To: N
+[INFO ] 2023-04-09 21:35:13.599 [main] KeywordUtil - cucumber path isC:\Users\padmini\Documents\Tx_Pratice-Nykaa_S\target/cucumber-html-report.html
+[INFO ] 2023-04-09 21:35:13.646 [main] KeywordUtil - Extent Report File path is  C:\Users\padmini\Documents\Tx_Pratice-Nykaa_S\ExecutionReports\HTMLReportsBackup\WelMartWeb.html
+[INFO ] 2023-04-09 21:37:44.774 [main] ExcelToCSVConverter - Generated CSV file is added to : C:\Users\padmini\Documents\Tx_Pratice-Nykaa_S/src/test/resources/CsvFiles/ArtistGrowthUsers.csv
+[INFO ] 2023-04-09 21:37:44.900 [main] RunCukesTest - CHROME
+[INFO ] 2023-04-09 21:37:44.903 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 21:37:44.903 [main] RunCukesTest -  Suite started at Sun Apr 09 21:37:44 IST 2023
+[INFO ] 2023-04-09 21:37:44.903 [main] RunCukesTest - Suite Execution For Web application on environment : Local
+[INFO ] 2023-04-09 21:37:44.903 [main] RunCukesTest - Suite Execution For Android mobile application on version: 12.0
+[INFO ] 2023-04-09 21:37:44.903 [main] RunCukesTest - Suite Execution For Android mobile application on Device: Redmi Note 10 Pro
+[INFO ] 2023-04-09 21:37:44.903 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 21:37:46.264 [main] Hooks - 
++----------------------------------------------------------------------------------------------------------------------------+
+[INFO ] 2023-04-09 21:37:46.264 [main] Hooks - Test Started: Verify that the user is able to add a product to the cart
+[INFO ] 2023-04-09 21:37:46.264 [main] Hooks - Test is executed in Environment: Local
+[INFO ] 2023-04-09 21:37:46.264 [main] Hooks - Test is started with browser: CHROME
+[INFO ] 2023-04-09 21:37:46.542 [main] RunCukesTest -  suite finished at Sun Apr 09 21:37:46 IST 2023
+[INFO ] 2023-04-09 21:37:46.542 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 21:37:47.069 [main] KeywordUtil - Test process has ended
+[INFO ] 2023-04-09 21:37:47.069 [main] KeywordUtil - Email Flag Set To: N
+[INFO ] 2023-04-09 21:37:47.074 [main] KeywordUtil - cucumber path isC:\Users\padmini\Documents\Tx_Pratice-Nykaa_S\target/cucumber-html-report.html
+[INFO ] 2023-04-09 21:37:47.120 [main] KeywordUtil - Extent Report File path is  C:\Users\padmini\Documents\Tx_Pratice-Nykaa_S\ExecutionReports\HTMLReportsBackup\WelMartWeb.html
+[INFO ] 2023-04-09 21:41:15.493 [main] ExcelToCSVConverter - Generated CSV file is added to : C:\Users\padmini\Documents\Tx_Pratice-Nykaa_S/src/test/resources/CsvFiles/ArtistGrowthUsers.csv
+[INFO ] 2023-04-09 21:41:15.625 [main] RunCukesTest - CHROME
+[INFO ] 2023-04-09 21:41:15.625 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 21:41:15.625 [main] RunCukesTest -  Suite started at Sun Apr 09 21:41:15 IST 2023
+[INFO ] 2023-04-09 21:41:15.625 [main] RunCukesTest - Suite Execution For Web application on environment : Local
+[INFO ] 2023-04-09 21:41:15.628 [main] RunCukesTest - Suite Execution For Android mobile application on version: 12.0
+[INFO ] 2023-04-09 21:41:15.628 [main] RunCukesTest - Suite Execution For Android mobile application on Device: Redmi Note 10 Pro
+[INFO ] 2023-04-09 21:41:15.628 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 21:41:17.012 [main] Hooks - 
++----------------------------------------------------------------------------------------------------------------------------+
+[INFO ] 2023-04-09 21:41:17.012 [main] Hooks - Test Started: Verify that the user is able to add a product to the cart
+[INFO ] 2023-04-09 21:41:17.012 [main] Hooks - Test is executed in Environment: Local
+[INFO ] 2023-04-09 21:41:17.014 [main] Hooks - Test is started with browser: CHROME
+[INFO ] 2023-04-09 21:41:26.137 [main] KeywordUtil - Navigate to: https://www.walmart.com
+[INFO ] 2023-04-09 21:41:31.269 [main] KeywordUtil - Walmart.com | Save Money. Live Better
+[INFO ] 2023-04-09 21:41:31.952 [main] KeywordUtil - Click : By.xpath: //div[text()='Sign In']
+[INFO ] 2023-04-09 21:41:32.753 [main] KeywordUtil - Click : By.xpath: //button[text()="Sign in or create account"]
+[INFO ] 2023-04-09 21:41:35.161 [main] KeywordUtil - Input Text: pbulnda@gmail.com - By.cssSelector: input[name = 'Email Address']
+[INFO ] 2023-04-09 21:42:06.634 [main] HTMLReportUtil - ExecutionReports\FailedScreenshots\ScreenShot_1681056726306.png
+[INFO ] 2023-04-09 21:42:09.666 [main] RunCukesTest -  suite finished at Sun Apr 09 21:42:09 IST 2023
+[INFO ] 2023-04-09 21:42:09.666 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 21:42:10.466 [main] KeywordUtil - Test process has ended
+[INFO ] 2023-04-09 21:42:10.466 [main] KeywordUtil - Email Flag Set To: N
+[INFO ] 2023-04-09 21:42:10.470 [main] KeywordUtil - cucumber path isC:\Users\padmini\Documents\Tx_Pratice-Nykaa_S\target/cucumber-html-report.html
+[INFO ] 2023-04-09 21:42:10.517 [main] KeywordUtil - Extent Report File path is  C:\Users\padmini\Documents\Tx_Pratice-Nykaa_S\ExecutionReports\HTMLReportsBackup\WelMartWeb.html
+[INFO ] 2023-04-09 21:42:54.985 [main] ExcelToCSVConverter - Generated CSV file is added to : C:\Users\padmini\Documents\Tx_Pratice-Nykaa_S/src/test/resources/CsvFiles/ArtistGrowthUsers.csv
+[INFO ] 2023-04-09 21:42:55.088 [main] RunCukesTest - CHROME
+[INFO ] 2023-04-09 21:42:55.088 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 21:42:55.088 [main] RunCukesTest -  Suite started at Sun Apr 09 21:42:55 IST 2023
+[INFO ] 2023-04-09 21:42:55.088 [main] RunCukesTest - Suite Execution For Web application on environment : Local
+[INFO ] 2023-04-09 21:42:55.088 [main] RunCukesTest - Suite Execution For Android mobile application on version: 12.0
+[INFO ] 2023-04-09 21:42:55.088 [main] RunCukesTest - Suite Execution For Android mobile application on Device: Redmi Note 10 Pro
+[INFO ] 2023-04-09 21:42:55.088 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 21:42:56.144 [main] Hooks - 
++----------------------------------------------------------------------------------------------------------------------------+
+[INFO ] 2023-04-09 21:42:56.144 [main] Hooks - Test Started: Verify that the user is able to add a product to the cart
+[INFO ] 2023-04-09 21:42:56.144 [main] Hooks - Test is executed in Environment: Local
+[INFO ] 2023-04-09 21:42:56.144 [main] Hooks - Test is started with browser: CHROME
+[INFO ] 2023-04-09 21:42:58.837 [main] KeywordUtil - Navigate to: https://www.walmart.com
+[INFO ] 2023-04-09 21:43:21.633 [main] KeywordUtil - Walmart.com | Save Money. Live Better
+[INFO ] 2023-04-09 21:43:22.228 [main] KeywordUtil - Click : By.xpath: //div[text()='Sign In']
+[INFO ] 2023-04-09 21:43:24.853 [main] HTMLReportUtil - ExecutionReports\FailedScreenshots\ScreenShot_1681056803361.png
+[INFO ] 2023-04-09 21:43:28.048 [main] RunCukesTest -  suite finished at Sun Apr 09 21:43:28 IST 2023
+[INFO ] 2023-04-09 21:43:28.048 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 21:43:28.781 [main] KeywordUtil - Test process has ended
+[INFO ] 2023-04-09 21:43:28.781 [main] KeywordUtil - Email Flag Set To: N
+[INFO ] 2023-04-09 21:43:28.788 [main] KeywordUtil - cucumber path isC:\Users\padmini\Documents\Tx_Pratice-Nykaa_S\target/cucumber-html-report.html
+[INFO ] 2023-04-09 21:43:28.820 [main] KeywordUtil - Extent Report File path is  C:\Users\padmini\Documents\Tx_Pratice-Nykaa_S\ExecutionReports\HTMLReportsBackup\WelMartWeb.html
+[INFO ] 2023-04-09 21:44:33.235 [main] ExcelToCSVConverter - Generated CSV file is added to : C:\Users\padmini\Documents\Tx_Pratice-Nykaa_S/src/test/resources/CsvFiles/ArtistGrowthUsers.csv
+[INFO ] 2023-04-09 21:44:33.345 [main] RunCukesTest - CHROME
+[INFO ] 2023-04-09 21:44:33.345 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 21:44:33.345 [main] RunCukesTest -  Suite started at Sun Apr 09 21:44:33 IST 2023
+[INFO ] 2023-04-09 21:44:33.345 [main] RunCukesTest - Suite Execution For Web application on environment : Local
+[INFO ] 2023-04-09 21:44:33.345 [main] RunCukesTest - Suite Execution For Android mobile application on version: 12.0
+[INFO ] 2023-04-09 21:44:33.345 [main] RunCukesTest - Suite Execution For Android mobile application on Device: Redmi Note 10 Pro
+[INFO ] 2023-04-09 21:44:33.345 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 21:44:34.588 [main] Hooks - 
++----------------------------------------------------------------------------------------------------------------------------+
+[INFO ] 2023-04-09 21:44:34.588 [main] Hooks - Test Started: Verify that the user is able to add a product to the cart
+[INFO ] 2023-04-09 21:44:34.588 [main] Hooks - Test is executed in Environment: Local
+[INFO ] 2023-04-09 21:44:34.588 [main] Hooks - Test is started with browser: CHROME
+[INFO ] 2023-04-09 21:44:37.303 [main] KeywordUtil - Navigate to: https://www.walmart.com
+[INFO ] 2023-04-09 21:45:00.033 [main] KeywordUtil - Walmart.com | Home page | Save Money. Live Better
+[INFO ] 2023-04-09 21:45:00.595 [main] KeywordUtil - Click : By.xpath: //div[text()='Sign In']
+[INFO ] 2023-04-09 21:45:22.048 [main] HTMLReportUtil - ExecutionReports\FailedScreenshots\ScreenShot_1681056921326.png
+[INFO ] 2023-04-09 21:45:25.237 [main] RunCukesTest -  suite finished at Sun Apr 09 21:45:25 IST 2023
+[INFO ] 2023-04-09 21:45:25.237 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-04-09 21:45:25.841 [main] KeywordUtil - Test process has ended
+[INFO ] 2023-04-09 21:45:25.841 [main] KeywordUtil - Email Flag Set To: N
+[INFO ] 2023-04-09 21:45:25.841 [main] KeywordUtil - cucumber path isC:\Users\padmini\Documents\Tx_Pratice-Nykaa_S\target/cucumber-html-report.html
+[INFO ] 2023-04-09 21:45:25.902 [main] KeywordUtil - Extent Report File path is  C:\Users\padmini\Documents\Tx_Pratice-Nykaa_S\ExecutionReports\HTMLReportsBackup\WelMartWeb.html

@@ -1,0 +1,21 @@
+[INFO ] 2023-05-08 10:47:39.656 [main] ExcelToCSVConverter - Generated CSV file is added to : /Users/atul/Downloads/Tx_Pratice-Nykaa_S/src/test/resources/CsvFiles/ArtistGrowthUsers.csv
+[INFO ] 2023-05-08 10:47:39.821 [main] RunCukesTest - CHROME
+[INFO ] 2023-05-08 10:47:39.821 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-05-08 10:47:39.832 [main] RunCukesTest -  Suite started at Mon May 08 10:47:39 IST 2023
+[INFO ] 2023-05-08 10:47:39.833 [main] RunCukesTest - Suite Execution For Web application on environment : Local
+[INFO ] 2023-05-08 10:47:39.837 [main] RunCukesTest - Suite Execution For Android mobile application on version: 12.0
+[INFO ] 2023-05-08 10:47:39.837 [main] RunCukesTest - Suite Execution For Android mobile application on Device: Redmi Note 10 Pro
+[INFO ] 2023-05-08 10:47:39.837 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-05-08 10:47:40.581 [main] DriverUtil - Execution started for iOS on device - iPad Pro with OS Version - 15.5
+[INFO ] 2023-05-08 10:47:49.727 [main] RunCukesTest -  suite finished at Mon May 08 10:47:49 IST 2023
+[INFO ] 2023-05-08 10:47:49.727 [main] RunCukesTest - 
+
++===========================================================================================================+
+[INFO ] 2023-05-08 10:47:49.964 [main] KeywordUtil - Test process has ended
+[INFO ] 2023-05-08 10:47:49.965 [main] KeywordUtil - Email Flag Set To: N
+[INFO ] 2023-05-08 10:47:49.966 [main] KeywordUtil - cucumber path is/Users/atul/Downloads/Tx_Pratice-Nykaa_S\target/cucumber-html-report.html
+[INFO ] 2023-05-08 10:47:49.978 [main] KeywordUtil - Extent Report File path is  /Users/atul/Downloads/Tx_Pratice-Nykaa_S/ExecutionReports/HTMLReportsBackup/null.html
