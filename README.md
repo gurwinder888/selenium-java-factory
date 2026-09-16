@@ -1,4 +1,4 @@
-# TxAutomate Web Automation Framework
+#Automate Web Automation Framework
 
 A lightweight, robust, and clean BDD-based Web Automation Testing Framework built with **Java 11**, **Selenium WebDriver**, **Cucumber JVM**, **TestNG**, and **ExtentReports**. 
 
